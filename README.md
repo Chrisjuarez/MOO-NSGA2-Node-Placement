@@ -104,7 +104,7 @@ Then restart VS Code.
 
 ---
 
-## 🛠️ Parameters You Can Tweak
+## Parameters You Can Tweak
 
 | Variable | Description | Default |
 |----------|-------------|---------|
@@ -137,17 +137,15 @@ And show a map with:
 
 ---
 
-## 📍 Future Improvements
+## Future Improvements
 
 - [ ] Let client draw bounding circle/polygon from frontend
 - [ ] Save solution to GeoJSON or KML
-- [ ] Show fire heatmaps using NASA FIRMS API
-- [ ] Animate solution generations for progress insight
-
+- [ ] Multiple central nodes
+- [ ] Budget cost 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Christian Juarez**  
-California State University, Fullerton  
-Capstone Project — Ignis AI: Fire Detection and Spread Prediction
+California State University, Fullerton 
