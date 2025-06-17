@@ -1,6 +1,6 @@
 ## 🔥 NSGA-II Sensor Placement for Wildfire Monitoring
 
-This project implements a multi-objective genetic algorithm (NSGA-II) to optimize the placement of wildfire detection sensors. It uses real elevation data from OpenTopography and walkable routes from OpenStreetMap to identify ideal sensor locations based on coverage, line-of-sight (LOS), elevation, and spatial spread.
+This project implements a multi-objective genetic algorithm (NSGA-II) to optimize the placement of wildfire detection sensors. It uses real elevation data from OpenTopography and walkable routes from OpenStreetMap to identify ideal sensor locations based on coverage, line-of-sight (LOS), elevation, spatial spread, and solar potential.
 
 ---
 
@@ -104,7 +104,7 @@ Then restart VS Code.
 
 ---
 
-## 🛠️ Parameters You Can Tweak
+## Parameters You Can Tweak
 
 | Variable | Description | Default |
 |----------|-------------|---------|
@@ -137,17 +137,15 @@ And show a map with:
 
 ---
 
-## 📍 Future Improvements
+## Future Improvements
 
 - [ ] Let client draw bounding circle/polygon from frontend
 - [ ] Save solution to GeoJSON or KML
-- [ ] Show fire heatmaps using NASA FIRMS API
-- [ ] Animate solution generations for progress insight
-
+- [ ] Multiple central nodes
+- [ ] Budget cost 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Christian Juarez**  
-California State University, Fullerton  
-Capstone Project — Ignis AI: Fire Detection and Spread Prediction
+California State University, Fullerton 
