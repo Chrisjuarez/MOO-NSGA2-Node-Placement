@@ -1,6 +1,6 @@
 ## 🔥 NSGA-II Sensor Placement for Wildfire Monitoring
 
-This project implements a multi-objective genetic algorithm (NSGA-II) to optimize the placement of wildfire detection sensors. It uses real elevation data from OpenTopography and walkable routes from OpenStreetMap to identify ideal sensor locations based on coverage, line-of-sight (LOS), elevation, and spatial spread.
+This project implements a multi-objective genetic algorithm (NSGA-II) to optimize the placement of wildfire detection sensors. It uses real elevation data from OpenTopography and walkable routes from OpenStreetMap to identify ideal sensor locations based on coverage, line-of-sight (LOS), elevation, spatial spread, and solar potential.
 
 ---
 
