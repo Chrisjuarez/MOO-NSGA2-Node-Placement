@@ -74,10 +74,12 @@ pip install numpy folium matplotlib geopy rasterio shapely osmnx requests
 
 ```bash
 ├── NSGA2
-    └── Notebook
-        └── nsga_altadena.ipynb     # GA for Altadena map
-        └── nsga_crestline.ipynb    #GA for Crestline map 
-    ├── README.md                   # Project documentation (you’re reading it)
+   └── Notebook
+      └── nsga_altadena.ipynb     # GA for Altadena map
+      └── nsga_crestline.ipynb    #GA for Crestline map
+      └── nsga2build.ipynb          #Construction of NSGA-2 with Booth, Matyas, and Rastrigin Functions and Graphs
+          
+   ├── README.md                   # Project documentation (you’re reading it)
     
 ```
 
